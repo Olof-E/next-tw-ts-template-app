@@ -2,7 +2,7 @@
   "name": "api-template",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Olof",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
